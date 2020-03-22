@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="title_message">Select Fast Foods</string>
+    <string name="chicken">Chicken Burger</string>
+    <string name="beef">Beef Burger</string>
+    <string name="inchpizza">8Inch Pizza</string>
+    <string name="pizza">12Inch Pizza</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tea</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="vegetable">Vegetable Roll</string>
+</resources>
