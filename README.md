@@ -2,4 +2,4 @@
 
 Student ID: 180104061
 
-Lab Section: 
+Lab Section: B1
